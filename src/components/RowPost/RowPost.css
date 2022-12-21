@@ -14,7 +14,13 @@
     display: none;
 }
 
-.posters {
+.poster {
+    cursor: pointer;
     max-height: 250px;
     margin-right: 10px;
+}
+
+.smallPoster {
+    max-height: 150px;
+    max-width: 100%;
 }
